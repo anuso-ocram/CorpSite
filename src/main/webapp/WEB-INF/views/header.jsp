@@ -47,7 +47,7 @@
                                             <a href="#">Secret Mountain</a>
                                         </li>
                                         <li>
-                                            <a href="#">Austin</a>
+                                            <a href="#">Atlanta</a>
                                         </li>
                                     </ul>
                                 </li>
