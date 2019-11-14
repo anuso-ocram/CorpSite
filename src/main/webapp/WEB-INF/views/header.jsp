@@ -50,7 +50,7 @@
                                             <a href="#">Atlanta</a>
                                         </li>
                                         <li>
-                                            <a href="#">Los Angeles</a>
+                                            <a href="#">Fargo</a>
                                         </li>
                                     </ul>
                                 </li>
