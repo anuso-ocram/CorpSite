@@ -56,6 +56,9 @@
                                             <a href="#">Dallas</a>
                                         </li>
                                         <li>
+                                            <a href="#">New Zealand</a>
+                                        </li>
+                                        <li>
                                             <a href="#">Los Angeles</a>
                                         </li>
                                         <li>
