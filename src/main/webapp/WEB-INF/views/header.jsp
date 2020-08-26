@@ -58,10 +58,7 @@
                                         <li>
                                             <a href="#">Milwaukee</a>
                                         </li>
-                                        <li>
-                                            <a href="#">Houston</a>
-                                        </li>
-                                    </ul>
+                                     </ul>
                                 </li>
                             </ul>
                         </div>
