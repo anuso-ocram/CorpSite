@@ -59,6 +59,9 @@
                                             <a href="#">Los Angeles</a>
                                         </li>
                                         <li>
+                                            <a href="#">Milwaukee</a>
+                                        </li>
+                                        <li>
                                             <a href="#">Houston</a>
                                         </li>
                                     </ul>
