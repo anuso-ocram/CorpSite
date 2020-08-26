@@ -56,9 +56,6 @@
                                             <a href="#">New Zealand</a>
                                         </li>
                                         <li>
-                                            <a href="#">Los Angeles</a>
-                                        </li>
-                                        <li>
                                             <a href="#">Milwaukee</a>
                                         </li>
                                         <li>
