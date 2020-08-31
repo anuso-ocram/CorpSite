@@ -58,6 +58,9 @@
                                         <li>
                                             <a href="#">Milwaukee</a>
                                         </li>
+                                        <li>
+                                            <a href="#">Salt Lake City</a>
+                                        </li>
                                      </ul>
                                 </li>
                             </ul>
