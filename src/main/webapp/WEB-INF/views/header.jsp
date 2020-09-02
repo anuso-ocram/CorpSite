@@ -55,9 +55,6 @@
                                         <li>
                                             <a href="#">New Zealand</a>
                                         </li>
-                                        <li>
-                                            <a href="#">Milwaukee</a>
-                                        </li>
                                      </ul>
                                 </li>
                             </ul>
