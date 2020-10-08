@@ -55,6 +55,9 @@
                                         <li>
                                             <a href="#">New Zealand</a>
                                         </li>
+                                        <li>
+                                            <a href="#">Johannesburg</a>
+                                        </li>
                                      </ul>
                                 </li>
                             </ul>
