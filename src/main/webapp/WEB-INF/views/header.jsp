@@ -41,9 +41,6 @@
                                     </a>
                                     <ul>
                                         <li>
-                                            <a href="#">Cypress Creek</a>
-                                        </li>
-                                        <li>
                                             <a href="#">Atlanta</a>
                                         </li>
                                         <li>
